@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jaishree 👋
+
+📊 Aspiring Data Analyst | Power BI | SQL | Business Intelligence
+
+I enjoy building dashboards that transform business data into actionable insights.
+
+## 🛠 Skills
+- Power BI
+- DAX
+- SQL
+- Excel
+- Data Visualization
+- Business Analysis
+
+## 📌 Featured Projects
+- Revenue & Billing Analytics Dashboard
+- PM Confirmation & Vertical Performance Dashboard
+
+## 🌱 Currently Learning
+- Advanced Power BI
+- Data Modeling
+- Predictive Analytics
+
+## 🔗 Connect With Me
+- LinkedIn
+- GitHub Projects## Hi there 👋
 
 <!--
 **JaishreeVanuvamalai/JaishreeVanuvamalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
