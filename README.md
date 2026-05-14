@@ -23,7 +23,7 @@ I enjoy building dashboards that transform business data into actionable insight
 
 ## 🔗 Connect With Me
 - LinkedIn
-- GitHub Projects## Hi there 👋
+- GitHub Projects
 
 <!--
 **JaishreeVanuvamalai/JaishreeVanuvamalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
