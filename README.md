@@ -1,6 +1,6 @@
 # Hi, I'm Jaishree 👋
 
-📊 Aspiring Data Analyst | Power BI | SQL | Business Intelligence
+📊 Data Analyst · Power BI · SQL · Oracle Fusion ERP · Turning operational data into decisions.
 
 I enjoy building dashboards that transform business data into actionable insights.
 
